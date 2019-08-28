@@ -1,0 +1,19 @@
+{
+  "name": "fb-test-users-cleanup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^3.0.0",
+    "progress": "^2.0.3",
+    "queue": "^6.0.1",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  }
+}
