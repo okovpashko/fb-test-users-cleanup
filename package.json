@@ -1,7 +1,7 @@
 {
-  "name": "fb-test-users-cleanup",
+  "name": "fb-test-users-remover",
   "version": "1.0.0",
-  "description": "",
+  "description": "A script for batch removing of Facebook test users",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
